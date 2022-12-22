@@ -1,4 +1,4 @@
-# Hi, I'm Henning Uekötter [ˈkøːtɐ] 👋
+# Hi, I'm Henning Uekötter [ˈyːˈkøtɐ] 👋
 
 I am software engineer and project manager. I have a passion for code, for clean, understandable, robust, easy-to-use code. And for technology that takes you to that goal... 
 🔭 I’m currently working at dSPACE GmbH.
